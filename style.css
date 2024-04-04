@@ -1,0 +1,32 @@
+*{
+ padding: 0;
+ margin: 0;
+ box-sizing: border-box;
+}
+
+.container{
+    background-image: url("pngtree-set-of-pixel-cartoon-ramadan-lantern-image_15588420.png");
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-transform: capitalize;   
+}
+
+.content{
+    background: #ffffff59;
+    backdrop-filter: blur(1px);
+    color: white;
+    padding: 5rem;
+    border-radius: 25px
+}
+
+
+
+
+
+
+
+
+
